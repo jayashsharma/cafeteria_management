@@ -1,0 +1,2 @@
+# cafeteria_management
+INTRODUCTION 1. The purpose of this study is to know  customer satisfaction and      provide some Ideas of improving existing management. 2. Cafeteria Management especially manages the menu items,gives interface to Orderings , expenditure report. 3. User to manage the item and manage the category  of food too. 4. It is designed to  increase operational efficiency, saving our money and time, maximizing profit and more security. 5. It is designed to avoid paper work.
